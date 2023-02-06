@@ -12,7 +12,7 @@ build-project:
     - echo "build complete"
   only:
     - main
-# except:
+###### except:
 #   - develop
   tags:
     - cicd_test_runner

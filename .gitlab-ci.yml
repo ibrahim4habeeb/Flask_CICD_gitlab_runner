@@ -61,4 +61,3 @@ deploy-project:
     - cicd_test_runner
 
 # ref - https://docs.gitlab.com/ee/ci/yaml/
-###############

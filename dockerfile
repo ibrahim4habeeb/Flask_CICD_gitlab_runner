@@ -1,4 +1,4 @@
-# Docker image with uWSGI and Nginx for web applications in Python in a single container
+######## Docker image with uWSGI and Nginx for web applications in Python in a single container
 # FROM tiangolo/uwsgi-nginx-flask:python3.8 # Flask
 # django
 FROM tiangolo/uwsgi-nginx:python3.8

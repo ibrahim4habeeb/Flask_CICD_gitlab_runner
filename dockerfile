@@ -18,7 +18,7 @@ RUN python3 --version
 # RUN apt-get -y install default-jdk
 # RUN javac -version
 
-# Configuration settings for UWSGI
+## Configuration settings for UWSGI
 ENV UWSGI_CHEAPER 4
 ENV UWSGI_PROCESSES 64
 
